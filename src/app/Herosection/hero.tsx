@@ -18,7 +18,7 @@ const hero = () => {
        </div>
 
        <div className='w-2/5  animate__animated animate__fadeIn animate__delay-1s'>
-       <Image src = {"https://img.freepik.com/premium-psd/woman-with-smile-that-says-shes-good-smile_1233986-1380.jpg"} 
+       <Image src = {"/girl-pic.png"} 
        alt = "pic"
        width={300}
        height={300}/>
