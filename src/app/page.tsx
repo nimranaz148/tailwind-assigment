@@ -1,5 +1,3 @@
-import Image from "next/image";
-import Header from "./Header/header";
 import Hero from "./Herosection/hero";
 
 export default function Home() {
